@@ -34,9 +34,6 @@ Prerequisites
 - npm atau yarn
 
 ``` sql
-# Clone project
-git clone [repository-url]
-cd restaurant-api
 
 # Install dependencies
 npm install
